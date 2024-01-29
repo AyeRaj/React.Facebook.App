@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* overflow: hidden; */
+    /* z-index: 99; */
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  padding: 8px 0px;
+  box-shadow: 0px 10px 15px -20px;
+}
+
+header .left {
+  width: 33vw;
+  display: flex;
+  align-items: center;
+  /* background-color: yellow; */
+}
+header .fbicon {
+  width: 34px;
+  margin: 0px 20px;
+  border-radius: 50%;
+}
+header .fbsearch{
+    display: flex;
+}
+.fbsearch .material-symbols-outlined{
+    position: absolute;
+    font-variation-settings:
+  'FILL' 1,
+  'wght' 200,
+  'GRAD' 0,
+  'opsz' 24
+}
+header input {
+  border-radius: 20px;
+  outline: none;
+  border: none;
+  padding: 5px 30px 5px 55px;
+  background: #f0f2f5;
+}
+header .center {
+  width: 40vw;
+  /* background-color: yellow; */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+header .right {
+  width: 26vw;
+  /* background-color: yellow; */
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.material-symbols-outlined {
+  /* border-radius: 50%; */
+  font-size: 30px;
+  padding: 2px;
+  margin: 0px 12px;
+  cursor: pointer;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 300,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined:hover{
+    color: blue;
+    /* border-bottom: 2px solid blue; */
+}

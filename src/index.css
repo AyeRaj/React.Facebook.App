@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  background: #f0f2f5;
+}
+tbody tr{
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+}
+tbody .heading{
+  z-index: 1;
+}

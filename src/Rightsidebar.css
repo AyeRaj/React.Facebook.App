@@ -1,0 +1,21 @@
+.sidebar2 {
+  background: #f0f2f5;;
+  color: #000000;
+  /* height: 100vh; */
+  width: 250px;
+  padding: 0px 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px 0;
+  cursor: pointer;
+}
+
+.material-symbols-outlined {
+  margin-right: 10px;
+}
