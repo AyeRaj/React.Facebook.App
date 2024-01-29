@@ -1,3 +1,10 @@
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=React.Facebook.App" alt="Visitor badge"/>
+
+# <p align="center">Project Preview</p>
+`Home Page`
+![HomePage](./public/Screenshot%20(191).png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
